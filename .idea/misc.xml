@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/anton/AndroidStudioProjects/PhotoWidget/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/anton/AndroidStudioProjects/PhotoWidget/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.124" />
+        <entry key="..\:/Users/anton/AndroidStudioProjects/PhotoWidget/app/src/main/res/drawable/button_selector.xml" value="0.2595" />
+        <entry key="..\:/Users/anton/AndroidStudioProjects/PhotoWidget/app/src/main/res/drawable/ic_launcher_background.xml" value="0.124" />
+        <entry key="..\:/Users/anton/AndroidStudioProjects/PhotoWidget/app/src/main/res/drawable/ic_load_file.xml" value="0.124" />
+        <entry key="..\:/Users/anton/AndroidStudioProjects/PhotoWidget/app/src/main/res/drawable/load_file_icon.xml" value="0.2595" />
+        <entry key="..\:/Users/anton/AndroidStudioProjects/PhotoWidget/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/anton/AndroidStudioProjects/PhotoWidget/app/src/main/res/layout/photo_activity.xml" value="0.2" />
+        <entry key="..\:/Users/anton/AndroidStudioProjects/PhotoWidget/app/src/main/res/layout/tool_bar.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/anton/AndroidStudioProjects/PhotoWidget/app/src/main/res/menu/photo_widget_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/anton/AndroidStudioProjects/PhotoWidget/app/src/main/res/xml/root_preferences.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
